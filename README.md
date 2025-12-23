@@ -39,10 +39,12 @@ I’m especially interested in problem-solving through code, developer experienc
 
 ### [track-snatch](https://github.com/V33010/track-snatch)
 A Python-based CLI tool that uses the Spotify Web API to fetch liked songs or playlists and automatically searches, downloads, and converts them to MP3 from YouTube using a multithreaded pipeline with retry handling.
+
 *Tech Stack*: Python, Spotify Web API (Spotipy), yt-dlp, FFmpeg, OAuth & Client Credentials Authentication, concurrent.futures (multithreading), logging, CLI-based workflow
 
 ### [asciify](https://github.com/V33010/asciify)
 A robust Command Line Interface (CLI) tool designed to convert images into ASCII art. It features a retro-style typewriter user interface, intelligent image resizing, and an integrated local web server for viewing results.
+
 *Tech Stack*: Python, NumPy, Pillow, Argparse
 
 ---
