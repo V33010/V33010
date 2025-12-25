@@ -50,7 +50,7 @@ A robust Command Line Interface (CLI) tool designed to convert images into ASCII
 ---
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=v33010&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v33010&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v33010&layout=compact&theme=radical)
 
 
 
